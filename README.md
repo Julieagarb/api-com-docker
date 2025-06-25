@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # API de Cadastro de Empresas de Vendas
 
 API RESTful desenvolvida em Node.js com Express e SQLite, containerizada com Docker e orquestrada via Docker Compose. Permite cadastrar e listar empresas de vendas.
@@ -23,13 +22,13 @@ API RESTful desenvolvida em Node.js com Express e SQLite, containerizada com Doc
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
 
-### Observação
-
-Os comandos abaixo funcionam em **Windows (PowerShell/CMD)**, **Linux** e no terminal do **VS Code**.
-
 ### Passos
 
-1. Clone este repositório e acesse a pasta do projeto.
+1. Clone este repositório e acesse a pasta do projeto:
+   ```sh
+   git clone https://github.com/Julieagarb/api-com-docker.git
+   cd api-com-docker
+   ```
 2. Execute o comando abaixo para subir a aplicação:
    ```sh
    docker compose up -d
@@ -85,7 +84,4 @@ minha-api-vendas/
 
 ---
 
-Desenvolvido para fins acadêmicos por [Julieagarb](https://github.com/Julieagarb)
-=======
-# api-com-docker
->>>>>>> 4e0e7256a128daec26dc898ddf0741c0ab3e473f
+Desenvolvido para fins acadêmicos
