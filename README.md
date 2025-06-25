@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API de Cadastro de Empresas de Vendas
 
 API RESTful desenvolvida em Node.js com Express e SQLite, containerizada com Docker e orquestrada via Docker Compose. Permite cadastrar e listar empresas de vendas.
@@ -85,3 +86,6 @@ minha-api-vendas/
 ---
 
 Desenvolvido para fins acadêmicos por [Julieagarb](https://github.com/Julieagarb)
+=======
+# api-com-docker
+>>>>>>> 4e0e7256a128daec26dc898ddf0741c0ab3e473f
